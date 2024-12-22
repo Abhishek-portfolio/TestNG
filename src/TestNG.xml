@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Suite">
+<test name ="Test Cases">
+<classes>
+<class name="TestNGTestCase.DriveACar"></class>
+<class name="TestNGTestCase.PriorityTest"></class>
+<class name="TestNGTestCase.Suite"></class>
+</classes>
+</test>
+</suite>

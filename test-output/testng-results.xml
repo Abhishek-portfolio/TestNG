@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-22T07:37:44Z" name="Test Suite" finished-at="2024-12-22T07:40:40Z" duration-ms="175344">
+    <groups>
+    </groups>
+    <test started-at="2024-12-22T07:37:44Z" name="Test Cases" finished-at="2024-12-22T07:40:40Z" duration-ms="175344">
+      <class name="TestNGTestCase.PriorityTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestNGTestCase.PriorityTest@4efc180e]" started-at="2024-12-22T13:07:44Z" name="SetUp" finished-at="2024-12-22T13:08:17Z" duration-ms="33027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestTitle()[pri:0, instance:TestNGTestCase.PriorityTest@4efc180e]" started-at="2024-12-22T13:08:18Z" name="TestTitle" finished-at="2024-12-22T13:08:18Z" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTitle -->
+        <test-method signature="ClickOffers()[pri:0, instance:TestNGTestCase.PriorityTest@4efc180e]" started-at="2024-12-22T13:08:18Z" name="ClickOffers" finished-at="2024-12-22T13:08:22Z" duration-ms="4593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOffers -->
+        <test-method signature="clickOrders()[pri:0, instance:TestNGTestCase.PriorityTest@4efc180e]" started-at="2024-12-22T13:08:22Z" name="clickOrders" finished-at="2024-12-22T13:08:45Z" duration-ms="22742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOrders -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNGTestCase.PriorityTest@4efc180e]" started-at="2024-12-22T13:09:34Z" name="closeBrowser" finished-at="2024-12-22T13:10:40Z" duration-ms="66140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNGTestCase.PriorityTest -->
+      <class name="TestNGTestCase.Suite">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestNGTestCase.Suite@20ccf40b]" started-at="2024-12-22T13:07:24Z" name="LaunchBrowser" finished-at="2024-12-22T13:07:44Z" duration-ms="20853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="OpenFacebook()[pri:0, instance:TestNGTestCase.Suite@20ccf40b]" started-at="2024-12-22T13:08:45Z" name="OpenFacebook" finished-at="2024-12-22T13:08:54Z" duration-ms="8524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenFacebook -->
+        <test-method signature="OpenGoogle()[pri:0, instance:TestNGTestCase.Suite@20ccf40b]" started-at="2024-12-22T13:08:54Z" name="OpenGoogle" finished-at="2024-12-22T13:09:05Z" duration-ms="11029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenGoogle -->
+        <test-method signature="OpenYoutube()[pri:0, instance:TestNGTestCase.Suite@20ccf40b]" started-at="2024-12-22T13:09:05Z" name="OpenYoutube" finished-at="2024-12-22T13:09:34Z" duration-ms="29048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenYoutube -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestNGTestCase.Suite@20ccf40b]" started-at="2024-12-22T13:10:42Z" name="CloseBrowser" finished-at="2024-12-22T13:10:53Z" duration-ms="11519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestNGTestCase.Suite -->
+      <class name="TestNGTestCase.DriveACar">
+        <test-method signature="StartTheCar()[pri:0, instance:TestNGTestCase.DriveACar@2fb3536e]" started-at="2024-12-22T13:08:17Z" name="StartTheCar" finished-at="2024-12-22T13:08:18Z" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTheCar -->
+        <test-method signature="putFirstGear()[pri:0, instance:TestNGTestCase.DriveACar@2fb3536e]" started-at="2024-12-22T13:08:18Z" name="putFirstGear" finished-at="2024-12-22T13:08:18Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putFirstGear -->
+        <test-method signature="putSecondGear()[pri:0, instance:TestNGTestCase.DriveACar@2fb3536e]" started-at="2024-12-22T13:08:18Z" name="putSecondGear" finished-at="2024-12-22T13:08:18Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putSecondGear -->
+        <test-method signature="putThirdGear()[pri:0, instance:TestNGTestCase.DriveACar@2fb3536e]" started-at="2024-12-22T13:08:18Z" name="putThirdGear" finished-at="2024-12-22T13:08:18Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putThirdGear -->
+        <test-method signature="putFourthGear()[pri:0, instance:TestNGTestCase.DriveACar@2fb3536e]" started-at="2024-12-22T13:08:18Z" name="putFourthGear" finished-at="2024-12-22T13:08:18Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putFourthGear -->
+      </class> <!-- TestNGTestCase.DriveACar -->
+    </test> <!-- Test Cases -->
+  </suite> <!-- Test Suite -->
+</testng-results>
